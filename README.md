@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Snake eating mi contributions D:
-https://github.com/eagrundy/eagrundy/raw/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/Deivis44/Deivis44/raw/output/github-contribution-grid-snake.svg)
