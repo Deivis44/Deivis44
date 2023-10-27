@@ -5,11 +5,12 @@
     <img src="https://media0.giphy.com/media/13E2De8rqGspdS/giphy.gif?cid=ecf05e47ufwu1a11r7vkyvzxgg7zdoo1hijdqyx152avd5j4&rid=giphy.gif&ct=g" width="20%" />
 </div>
 
-👀 I am interested in learning about the area of web development, especially the Back-end, while I search a new way to be a better me doing a lot of productive things.
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [deivis_working.delta571@slmail.me](mailto:deivis_working.delta571@slmail.me)
-* 🧠  I'm learning I'm currently learning a bit more about the backend, and I'm focusing on the Java programming language. I have knowledge in C++, JavaScript, HTML & CSS and Python. I would like to develop myself as a full stack developer
-* 🤝  I'm open to collaborating on I'm trying to look at how to collaborate on projects that involve topics like desktop application development, as well as web design. But I am interested in other topics such as video games, applications for mobile devices (Android) and computers
+👀 I'm keen on delving into the field of web development, particularly focusing on the backend. Simultaneously, I'm actively exploring ways to boost my productivity and personal growth.
+
+* 🌍 I'm located in Colombia.
+* ✉️ You can contact me at [deivis_working.delta571@slmail.me](mailto:deivis_working.delta571@slmail.me)
+* 🧠 Currently, I'm expanding my knowledge of backend development, with a strong emphasis on the Java programming language. I also have experience in C++, JavaScript, HTML & CSS, and Python. My ultimate goal is to evolve into a full-stack developer.
+* 🤝 I'm enthusiastic about collaborating on projects related to desktop application development and web design. I'm also passionate about other areas like video game development, mobile applications (especially for Android), and software for computers.
 
 
 
@@ -43,11 +44,12 @@
 
 <b>My GitHub Stats</b>
 
-
+<p align="center" style="display: inline-block;>
+    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deivis44&show_icons=true&theme=tokyonight)
 
 <p align="center" style="display: inline-block;>
-
+    
 <a href="http://www.github.com/deivis44"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=deivis44&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
