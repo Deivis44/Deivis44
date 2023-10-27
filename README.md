@@ -46,7 +46,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deivis44&show_icons=true&theme=tokyonight)
 
-<p align="left" style="display: inline-block;>
+<p align="center" style="display: inline-block;>
 
 <a href="http://www.github.com/deivis44"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=deivis44&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
