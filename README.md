@@ -1,3 +1,4 @@
+# Welcome to DaaveyOs!
 ```
 ==> Booting DaaveyOS [2.24-about]
 /dev/sda3: recovering journal
@@ -34,18 +35,43 @@
 ```
 ---
 ```
-[root@archlinux ~]# export LEARNING_MODE=continuous
-[root@archlinux ~]# pacman -Syu
+[root@user ~]# export LEARNING_MODE=continuous && rm -rf /insecurity
+[root@user ~]# pacman -Syu
 :: Synchronizing package databases...
  core is up to date
  extra is up to date
  community is up to date
 :: Starting full system upgrade...
- there is nothing to do
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) creativiy-1.0.52
+
+Total download size: 103Mb
+Total installed size: 94Mb
+
+:: Proceed with installation? [Y/n] y
+
+[root@user ~]# fastfetch
+
+      ___           ___            root@user 
+     /__/\         /  /\           
+    |  |::\       /  /::|          [ ]  Linux 6.11.5-arch1-1
+    |  |:|:\     /  /:/:|          [ ]  1419 (pacman)
+  __|__|:|\:\   /  /:/|:|__        [ ]  zsh 5.9
+ /__/::::| \:\ /__/:/ |:| /\       [ ]  kitty 0.36.4
+ \  \:\~~\__\/ \__\/  |:|/:/       [ ]  Hyprland (Wayland)
+  \  \:\           |  |:/:/        [ ]  2 hours, 18 mins
+   \  \:\          |  |::/         [ ]  Ryo Fukui - Early Summer (Playing)
+    \  \:\         |  |:/   
+     \__\/         |__|/    
 ```
 
 
 <!--
+
+╥━━━━━━━━╭━━╮━━┳ ╢╭╮╭━━━━━┫┃▋▋━▅┣ ╢┃╰┫┈┈┈┈┈┃┃┈┈╰┫┣ ╢╰━┫┈┈┈┈┈╰╯╰┳━╯┣ ╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣ ╨━━┗┛┗┛━━┗┛┗┛━━┻
+
 ### [root@archlinux ~]# pacman -S [package_name]
 resolving dependencies...
 looking for conflicting packages...
