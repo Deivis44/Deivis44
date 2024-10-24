@@ -1,6 +1,41 @@
-# Hi 🤝 My name is David Muñoz
-**`I am a systems engineering student at the Francisco José de Caldas District University in Bogotá, Colombia 🇨🇴`**
+# ==> Booting Arch Linux [2.24-about]
 
+### ==> Starting system initialization...
+
+[    0.01s] :: Loading core modules: Linux Enthusiast, Servers, Networking
+[    0.03s] :: Initializing user profile: "Linux enthusiast with expertise in server management and web design."
+
+### ==> Checking for active skills...
+
+[    0.05s] ✔ Java detected
+[    0.06s] ✔ Python detected
+[    0.07s] ✔ Git detected
+[    0.08s] ✔ HTML5 detected
+[    0.09s] ✔ CSS3 detected
+[    0.10s] ✔ JavaScript detected
+[    0.12s] :: Skills loaded successfully.
+
+### ==> Establishing network connections...
+
+[    0.14s] :: Connecting to [GitHub](https://www.github.com/deivis44) [ONLINE]
+[    0.15s] :: Connecting to [LinkedIn](https://www.linkedin.com/in/david-santiago-mu%C3%B1oz-fernandez-8b675a183/) [ONLINE]
+
+### ==> Finalizing system setup...
+
+[    0.18s] ✔ Projects initialized: Web Design, Server Management
+[    0.19s] ✔ Current activity: "Exploring new Linux-based solutions..."
+
+### ==> Easter eggs detected!
+
+[    0.21s] :: "sudo rm -rf /insecurity"
+[    0.22s] :: "export CONFIDENCE=high"
+[    0.23s] :: "alias success='keep_learning'"
+
+### ==> System ready for operation.
+
+
+
+<!--
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/13E2De8rqGspdS/giphy.gif?cid=ecf05e47ufwu1a11r7vkyvzxgg7zdoo1hijdqyx152avd5j4&rid=giphy.gif&ct=g" width="20%" />
 </div>
@@ -57,3 +92,4 @@
 <div id="header" align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQwYjNiNzM2YTg2YjE2YjAyZGUwYWNjNjA0MmY0YjM2OGJmN2U0OSZjdD1n/hQBN5vPDbw03S/giphy.gif" width="60%" />
 </div>
+-->
