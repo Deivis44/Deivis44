@@ -1,10 +1,12 @@
 ```
-==> Booting Arch Linux [2.24-about]
+==> Booting DaaveyOS [2.24-about]
+/dev/sda3: recovering journal
+/dev/sda3: clean, 238075/59965440 files, 6019093/239842481 blocks
 
-###   --> Starting system initialization...
+  --> Starting system initialization...
 
-[    0.01s] :: Loading core modules: Linux , Servers, Networks, Graphic Design, CyberSec
-[    0.03s] :: Initializing user profile: "Linux enthusiast with apprenticeship in server management and information security."
+[    0.01s] :: Loading core modules: Linux, Servers, Networks, Graphic Design, CyberSec
+[    0.03s] :: Initializing user profile: "Linux enthusiast with skills in server management and information security."
 
   --> Checking for active skills...
 
@@ -14,29 +16,51 @@
 [    0.08s] ✔ HTML5 & CSS3 detected
 [    0.09s] ✔ C++ detected
 [    0.10s] ✔ TypeScript detected
-[    0.12s] :: Skills loaded successfully.
+[    0.15s] :: Skills loaded successfully.
 
-  --> Establishing network connections...
+  --> Additional components...
 
-[    0.14s] :: Connecting to [GitHub](https://www.github.com/deivis44) [ONLINE]
-[    0.15s] :: Connecting to [LinkedIn](https://www.linkedin.com/in/david-santiago-mu%C3%B1oz-fernandez-8b675a183/) [ONLINE]
+[    OK   ] Mounting Illustrator
+[    OK   ] Reached Premiere Pro
+[    OK   ] Starting Blender
+[    OK   ] Finished Figma
 
   --> Finalizing system setup...
 
-[    0.18s] ✔ Projects initialized: Web Design, Server Management
-[    0.19s] ✔ Current activity: "Exploring new Linux-based solutions..."
-
-  --> Easter eggs detected!
-
-[    0.21s] :: "sudo rm -rf /insecurity"
-[    0.22s] :: "export CONFIDENCE=high"
-[    0.23s] :: "alias success='keep_learning'"
+[    0.18s] ✔ Projects initialized: Web Design, Server Management [ OK ]
+[    0.19s] ✔ Current activity: "Exploring new Linux-based solutions..." [ OK ]
 
 ==> System ready for operation.
+```
+---
+```
+[root@archlinux ~]# export LEARNING_MODE=continuous
+[root@archlinux ~]# pacman -Syu
+:: Synchronizing package databases...
+ core is up to date
+ extra is up to date
+ community is up to date
+:: Starting full system upgrade...
+ there is nothing to do
 ```
 
 
 <!--
+### [root@archlinux ~]# pacman -S [package_name]
+resolving dependencies...
+looking for conflicting packages...
+
+Packages (1) [package_name]-[version]
+
+Total download size: [size]
+Total installed size: [size]
+
+:: Proceed with installation? [Y/n]
+
+[    OK   ] :: "sudo rm -rf /insecurity" [ OK ]
+[    OK   ] :: "export LEARNING_MODE=continuous" [ OK ]
+[    OK   ] :: "alias creativity='think_outside_the_box'" [ OK ]
+
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/13E2De8rqGspdS/giphy.gif?cid=ecf05e47ufwu1a11r7vkyvzxgg7zdoo1hijdqyx152avd5j4&rid=giphy.gif&ct=g" width="20%" />
 </div>
