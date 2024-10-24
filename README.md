@@ -1,12 +1,12 @@
 ```
-# ==> Booting Arch Linux [2.24-about]
+==> Booting Arch Linux [2.24-about]
 
 ###   --> Starting system initialization...
 
 [    0.01s] :: Loading core modules: Linux , Servers, Networks, Graphic Design, CyberSec
 [    0.03s] :: Initializing user profile: "Linux enthusiast with apprenticeship in server management and information security."
 
-### ==> Checking for active skills...
+  --> Checking for active skills...
 
 [    0.05s] ✔ Java detected
 [    0.06s] ✔ Python detected
@@ -16,23 +16,23 @@
 [    0.10s] ✔ TypeScript detected
 [    0.12s] :: Skills loaded successfully.
 
-### ==> Establishing network connections...
+  --> Establishing network connections...
 
 [    0.14s] :: Connecting to [GitHub](https://www.github.com/deivis44) [ONLINE]
 [    0.15s] :: Connecting to [LinkedIn](https://www.linkedin.com/in/david-santiago-mu%C3%B1oz-fernandez-8b675a183/) [ONLINE]
 
-### ==> Finalizing system setup...
+  --> Finalizing system setup...
 
 [    0.18s] ✔ Projects initialized: Web Design, Server Management
 [    0.19s] ✔ Current activity: "Exploring new Linux-based solutions..."
 
-### ==> Easter eggs detected!
+  --> Easter eggs detected!
 
 [    0.21s] :: "sudo rm -rf /insecurity"
 [    0.22s] :: "export CONFIDENCE=high"
 [    0.23s] :: "alias success='keep_learning'"
 
-### ==> System ready for operation.
+==> System ready for operation.
 ```
 
 
