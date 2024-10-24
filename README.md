@@ -1,18 +1,19 @@
+```
 # ==> Booting Arch Linux [2.24-about]
 
-### ==> Starting system initialization...
+###   --> Starting system initialization...
 
-[    0.01s] :: Loading core modules: Linux Enthusiast, Servers, Networking
-[    0.03s] :: Initializing user profile: "Linux enthusiast with expertise in server management and web design."
+[    0.01s] :: Loading core modules: Linux , Servers, Networks, Graphic Design, CyberSec
+[    0.03s] :: Initializing user profile: "Linux enthusiast with apprenticeship in server management and information security."
 
 ### ==> Checking for active skills...
 
 [    0.05s] ✔ Java detected
 [    0.06s] ✔ Python detected
-[    0.07s] ✔ Git detected
-[    0.08s] ✔ HTML5 detected
-[    0.09s] ✔ CSS3 detected
-[    0.10s] ✔ JavaScript detected
+[    0.07s] ✔ Bash detected
+[    0.08s] ✔ HTML5 & CSS3 detected
+[    0.09s] ✔ C++ detected
+[    0.10s] ✔ TypeScript detected
 [    0.12s] :: Skills loaded successfully.
 
 ### ==> Establishing network connections...
@@ -32,7 +33,7 @@
 [    0.23s] :: "alias success='keep_learning'"
 
 ### ==> System ready for operation.
-
+```
 
 
 <!--
