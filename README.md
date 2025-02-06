@@ -1,4 +1,28 @@
-# Welcome to DaaveyOs!
+```
+| System | Launch sequence initiated.
+     ┌───────────┐
+     │           │   Deivis: 
+     │   ⚪  ⬛  ⚪   Welcome to |DaaveyOs| v5.2.25, user!
+     └───────────┘
+     ┌───────────┐
+     │    ︵  ‿  ︵   Deivis:
+     │           │   <thinking> 
+     └───────────┘
+     ┌───────────┐
+     │           │   Deivis: 
+     │   ⚪  ‿  ⚪    I'm here to guide you through my professional journey. 
+     └───────────┘   Choose your preferred language to download my resume:
+```
+
+> | [🇨🇴 Descargar](https://drive.google.com/file/d/1QdnVJ5_DsU1IcL51GRcbPfRWgP4Drwpd/view?usp=sharing) | [🇬🇧 Download](https://drive.google.com/file/d/14UhDydrfdGKyDjekTmb9QbbDNQS49qJc/view?usp=sharing) |
+> |---------------------------|-------------------------|
+```
+     ┌───────────┐
+     │           │   Deivis: 
+     │   ⚪  ⬛  ⚪   Feel free to explore around my repositories, I'll be attentive to anything you need
+     └───────────┘
+```
+---
 ```
 ==> Booting DaaveyOS [2.24-about]
 /dev/sda3: recovering journal
