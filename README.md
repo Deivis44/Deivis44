@@ -1,6 +1,5 @@
+**| System | Launch sequence initiated.**
 ```
-| System | Launch sequence initiated.
-
      ┌───────────┐
      │           │   Deivis: 
      │   ⚪  ⬛  ⚪   Welcome to |DaaveyOs| v5.2.25, user!
