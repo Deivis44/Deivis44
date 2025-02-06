@@ -23,8 +23,8 @@
 ```
      ┌───────────┐
      │           │   Deivis: 
-     │   ⚪  ⬛  ⚪   Feel free to explore around my repositories, I'll be attentive to anything you need
-     └───────────┘
+     │   ⚪  ⬛  ⚪   Feel free to explore around my repositories,
+     └───────────┘   I'll be attentive to anything you need <3
 ```
 ---
 ```
