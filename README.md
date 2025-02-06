@@ -1,4 +1,4 @@
-**| System | Launch sequence initiated.**
+**| System |** Launch sequence initiated.
 ```
      ┌───────────┐
      │           │   Deivis: 
@@ -35,7 +35,7 @@
   --> Starting system initialization...
 
 [    0.01s] :: Loading core modules: Linux, Servers, Networks, Graphic Design, CyberSec
-[    0.03s] :: Initializing user profile: "Linux enthusiast with skills in server management and information security."
+[    0.03s] :: Initializing user profile: "Linux enthusiast focused on servers and security."
 
   --> Checking for active skills...
 
