@@ -60,7 +60,6 @@
 
 ==> System ready for operation.
 ```
----
 ```
 [root@user ~]# export LEARNING_MODE=continuous && rm -rf /insecurity
 [root@user ~]# pacman -Syu
