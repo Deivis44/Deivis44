@@ -1,13 +1,16 @@
 ```
 | System | Launch sequence initiated.
+
      ┌───────────┐
      │           │   Deivis: 
      │   ⚪  ⬛  ⚪   Welcome to |DaaveyOs| v5.2.25, user!
      └───────────┘
+
      ┌───────────┐
      │    ︵  ‿  ︵   Deivis:
      │           │   <thinking> 
      └───────────┘
+
      ┌───────────┐
      │           │   Deivis: 
      │   ⚪  ‿  ⚪    I'm here to guide you through my professional journey. 
