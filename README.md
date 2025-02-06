@@ -60,7 +60,23 @@
 [    0.19s] ✔ Current activity: "Exploring new Linux-based solutions..." [ OK ]
 
 ==> System ready for operation.
+
+[root@user ~]# fastfetch
+
+      ___           ___            root@user 
+     /__/\         /  /\           
+    |  |::\       /  /::|          [ ]  Linux 6.11.5-arch1-1
+    |  |:|:\     /  /:/:|          [ ]  1419 (pacman)
+  __|__|:|\:\   /  /:/|:|__        [ ]  zsh 5.9
+ /__/::::| \:\ /__/:/ |:| /\       [ ]  kitty 0.36.4
+ \  \:\~~\__\/ \__\/  |:|/:/       [ ]  Hyprland (Wayland)
+  \  \:\           |  |:/:/        [ ]  2 hours, 18 mins
+   \  \:\          |  |::/         [ ]  Ryo Fukui - Early Summer (Playing)
+    \  \:\         |  |:/   
+     \__\/         |__|/    
 ```
+
+<!--
 ```
 [root@user ~]# export LEARNING_MODE=continuous && rm -rf /insecurity
 [root@user ~]# pacman -Syu
@@ -95,7 +111,7 @@ Total installed size: 94Mb
 ```
 
 
-<!--
+
 
 ╥━━━━━━━━╭━━╮━━┳ ╢╭╮╭━━━━━┫┃▋▋━▅┣ ╢┃╰┫┈┈┈┈┈┃┃┈┈╰┫┣ ╢╰━┫┈┈┈┈┈╰╯╰┳━╯┣ ╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣ ╨━━┗┛┗┛━━┗┛┗┛━━┻
 
