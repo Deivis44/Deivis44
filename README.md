@@ -19,7 +19,7 @@
      └───────────┘   Choose your preferred language to download my resume:
 ```
 
-> | [🇬🇧 Download](https://drive.google.com/file/d/14UhDydrfdGKyDjekTmb9QbbDNQS49qJc/view?usp=sharing) | [🇨🇴 Descargar](https://drive.google.com/file/d/1QdnVJ5_DsU1IcL51GRcbPfRWgP4Drwpd/view?usp=sharing) |
+> | [[EN] Download](https://drive.google.com/file/d/14UhDydrfdGKyDjekTmb9QbbDNQS49qJc/view?usp=sharing) | [[ES] Descargar](https://drive.google.com/file/d/1QdnVJ5_DsU1IcL51GRcbPfRWgP4Drwpd/view?usp=sharing) |
 > |---------------------------|-------------------------|
 ```
      ┌───────────┐
