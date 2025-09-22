@@ -3,7 +3,7 @@
 
      ┌───────────┐
      │           │   Deivis: 
-     │   ⚪  ⬛  ⚪   <says> Welcome to |DaaveyOs| v5.2.25, user!
+     │   ⚪  ⬛  ⚪   <says> Welcome to |DaaveyOs| v22.9.25, user!
      └───────────┘
 ```
 
@@ -73,7 +73,7 @@
 
      ┌───────────┐
      │           │   Deivis: 
-     │   ⚪  ⬛  ⚪   <says> Here are my resume links, choose your language:
+     │   ⚪  ⬛  ⚪   <says> Opening my Resume folder on Drive — pick EN or ES inside.
      └───────────┘
 ```
 
