@@ -77,16 +77,7 @@
      └───────────┘
 ```
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/14UhDydrfdGKyDjekTmb9QbbDNQS49qJc/view?usp=sharing">
-    <img alt="Resume EN" 
-         src="https://img.shields.io/badge/Resume-EN-blue?style=for-the-badge&logo=google-drive&logoColor=white">
-  </a>
-  <a href="https://drive.google.com/file/d/1QdnVJ5_DsU1IcL51GRcbPfRWgP4Drwpd/view?usp=sharing">
-    <img alt="Hoja de vida ES" 
-         src="https://img.shields.io/badge/Hoja%20de%20vida-ES-red?style=for-the-badge&logo=google-drive&logoColor=white">
-  </a>
-</p>
+[![Open Resume Folder](Boton.png)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
 
 ```md
      ┌───────────┐
@@ -96,27 +87,3 @@
 
 [root@user ~]# █
 ```
-
-
-
-<!--
-
-| [🇺🇸 **English**](https://drive.google.com/file/d/14UhDydrfdGKyDjekTmb9QbbDNQS49qJc/view?usp=sharing) | [🇪🇸 **Español**](https://drive.google.com/file/d/1QdnVJ5_DsU1IcL51GRcbPfRWgP4Drwpd/view?usp=sharing) |
-|-------|-------|
-
-```
-  --> Loading user environment...
-
-[    OK   ] Starting display manager
-[    OK   ] Loading user configurations  
-[    OK   ] Initializing workspace
-[    OK   ] Starting background services
-
-  --> Finalizing startup sequence...
-
-[    0.18s] ✔ User session initialized
-[    0.19s] ✔ Development environment ready
-[    0.20s] ✔ All systems operational
-```
-
--->
