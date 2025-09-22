@@ -73,7 +73,7 @@
 
      ┌───────────┐
      │           │   Deivis: 
-     │   ⚪  ⬛  ⚪   <says> Opening my Resume folder on Drive — pick EN or ES inside.
+     │   ⚪  ⬛  ⚪   <says> Handing control to the Resume window.
      └───────────┘
 ```
 
