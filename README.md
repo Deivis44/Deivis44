@@ -32,7 +32,7 @@ I administer the Ministry's portal in TYPO3, handle GLPI tickets, and document p
 ### `deivis@daaveyos:~$ contact --help`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-085A9E?style=flat-square)](https://www.linkedin.com/in/david-munoz44/)
-[![CV folder](https://img.shields.io/badge/CV_folder-334155?style=flat-square)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
+[![CV archive](https://img.shields.io/badge/CV_archive-334155?style=flat-square)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
 
 ### `deivis@daaveyos:~$ fastfetch`
 
@@ -75,7 +75,7 @@ I administer the Ministry's portal in TYPO3, handle GLPI tickets, and document p
 </details>
 
 ```text
-deivis@daaveyos:~$ resume --download
+deivis@daaveyos:~$ resume --archive
 
      ┌───────────┐
      │    ︵  ‿  ︵   Deivis:
@@ -84,11 +84,13 @@ deivis@daaveyos:~$ resume --download
 
      ┌───────────┐
      │           │   Deivis: 
-     │   ⚪  ⬛  ⚪   <says> Handing control to the Resume window.
+     │   ⚪  ⬛  ⚪   <says> Opening the résumé archive.
      └───────────┘
 ```
 
-[![Open Resume Folder](Boton.png)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
+Archived PDFs from February 2025.
+
+[![Open CV Archive](Boton.png)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
 
 ```text
      ┌───────────┐
