@@ -18,8 +18,8 @@ deivis@daaveyos:~$ whoami
 ![User profile · David Santiago Muñoz Fernández. Systems Engineering student at Universidad Distrital. Currently webmaster at Colombia's Ministry of Agriculture and Rural Development. Based in Bogotá and open to internships and junior roles in Linux systems administration, IT infrastructure, and DevOps.](./assets/daaveyos-profile.svg)
 
 [![LinkedIn](./assets/daaveyos-linkedin.svg)](https://www.linkedin.com/in/david-munoz44/)
-[![Projects](./assets/daaveyos-projects-link.svg)](#daaveyos-projects)
-[![CV](./assets/daaveyos-resume-link.svg)](#daaveyos-resume)
+[![Projects](./assets/daaveyos-projects-link.svg)](#user-content-daaveyos-projects)
+[![CV](./assets/daaveyos-resume-link.svg)](#user-content-daaveyos-resume)
 
 ```text
 [session] Profile window closed. Back at the shell.
