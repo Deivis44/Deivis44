@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="322" height="122" viewBox="0 0 322 122" role="img" aria-label="GLUD Homelab">
+  <title>GLUD Homelab</title>
+  <desc>Remote lab on a Raspberry Pi 5. Docker / Tailscale / VPS tunnel.</desc>
+  <rect x="0.5" y="0.5" width="321" height="121" rx="9" fill="#101922" stroke="#3A4C5D"/>
+  <path d="M1 31.5H321" stroke="#3A4C5D"/>
+  <circle cx="16" cy="16" r="3" fill="#86EFAC"/>
+  <text x="28" y="20" fill="#C1CFDC" font-family="monospace" font-size="11">~/projects/homelab-glud</text>
+  <path d="M295 20l8-8m-6 0h6v6" fill="none" stroke="#86EFAC" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="14" y="56" fill="#F2F6F9" font-family="monospace" font-size="17" font-weight="700">GLUD Homelab</text>
+  <text x="14" y="78" fill="#C1CFDC" font-family="monospace" font-size="12">Remote lab on a Raspberry Pi 5</text>
+  <text x="14" y="103" fill="#86EFAC" font-family="monospace" font-size="11">Docker / Tailscale / VPS tunnel</text>
+</svg>

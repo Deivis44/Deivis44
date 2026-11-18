@@ -1,5 +1,6 @@
-```md
-[ System ] Launch sequence initiated.
+```text
+==> DaaveyOS boot sequence initiated
+==> Session ready · deivis@daaveyos
 
      ┌───────────┐
      │           │   Deivis: 
@@ -7,17 +8,54 @@
      └───────────┘
 ```
 
-```md
-     ┌───────────┐
-     │           │   Deivis: 
-     │   ⚪  ‿  ⚪   <says> I'm here to guide you through my professional
-     └───────────┘           journey. Explore my repositories and feel free to contact me!
+### `deivis@daaveyos:~$ whoami`
+
+```text
+David Santiago Muñoz Fernández
+Systems Engineering student · Universidad Distrital
+Webmaster · Colombia's Ministry of Agriculture and Rural Development
+Bogotá, Colombia · Open to internships and junior roles
+Focus: Linux systems administration, IT infrastructure, and DevOps
 ```
 
----
+### `deivis@daaveyos:~$ ls ~/projects`
 
-```plain
-==> Booting DaaveyOS [2.24-about]
+[![GLUD Homelab — Raspberry Pi 5 with Docker, Tailscale, and a VPS tunnel](./assets/glud-homelab.svg)](./homelab-glud.md)
+[![Arch Linux Dotfiles — Hyprland, Bash, and GNU Stow](./assets/arch-dotfiles.svg)](https://github.com/Deivis44/dotfiles)
+
+[Chess](https://github.com/Deivis44/Chess) · University project in Java
+
+### `deivis@daaveyos:~$ cat ~/work/madr.log`
+
+I administer the Ministry's portal in TYPO3, handle GLPI tickets, and document publication changes. For a technical SEO project, I mapped **591 URLs** to TYPO3 records and helped verify metadata updates.
+
+### `deivis@daaveyos:~$ contact --help`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-085A9E?style=flat-square)](https://www.linkedin.com/in/david-munoz44/)
+[![CV folder](https://img.shields.io/badge/CV_folder-334155?style=flat-square)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
+
+### `deivis@daaveyos:~$ fastfetch`
+
+```text
+      ___           ___            deivis@daaveyos 
+     /__/\         /  /\           
+    |  |::\       /  /::|          OS  Linux 6.11.5-arch1-1
+    |  |:|:\     /  /:|:|          Host  DaaveyOS Professional Workstation
+  __|__|:|\:\   /  /:/|:|__        Kernel  6.11.5-arch1-1
+ /__/::::| \:\ /__/:/ |:| /\       Uptime  Learning since 2020
+ \  \:\~~\__\/ \__\/  |:|/:/       Shell  zsh 5.9
+  \  \:\           |  |:/:/        DE  Hyprland (Wayland)
+   \  \:\          |  |::/         CPU  Always processing new ideas
+    \  \:\         |  |:/          Memory  Constantly expanding knowledge
+     \__\/         |__|/           GPU  Rendering creative solutions
+
+```
+
+<details>
+<summary><code>journalctl -b</code> · Full boot log</summary>
+
+```text
+==> Booting DaaveyOS [profile]
 /dev/sda3: recovering journal
 /dev/sda3: clean, 238075/59965440 files, 6019093/239842481 blocks
 
@@ -32,44 +70,13 @@
 
 ==> Login successful. Welcome back, Deivis!
 
-[root@user ~]# fastfetch
-
-      ___           ___            root@user 
-     /__/\         /  /\           
-    |  |::\       /  /::|          OS  Linux 6.11.5-arch1-1
-    |  |:|:\     /  /:|:|          Host  DaaveyOS Professional Workstation
-  __|__|:|\:\   /  /:/|:|__        Kernel  6.11.5-arch1-1
- /__/::::| \:\ /__/:/ |:| /\       Uptime  Learning since 2020
- \  \:\~~\__\/ \__\/  |:|/:/       Shell  zsh 5.9
-  \  \:\           |  |:/:/        DE  Hyprland (Wayland)
-   \  \:\          |  |::/         CPU  Always processing new ideas
-    \  \:\         |  |:/          Memory  Constantly expanding knowledge
-     \__\/         |__|/           GPU  Rendering creative solutions
-
-[root@user ~]# ls ~/projects/
-📂 homelab-glud/    Raspberry Pi 5 · Docker · Tailscale · VPS
-📂 dotfiles/        Arch Linux · Hyprland · Bash · GNU Stow
-📂 Chess/           University project · Java
-
-[root@user ~]# whoami --skills
-👤 David Santiago Muñoz Fernández · Systems Engineering student
-🏛️ Webmaster at Colombia's Ministry of Agriculture · TYPO3 · GLPI
-🖥️ Infrastructure projects: Linux · Docker · Bash · networking
-🔎 Open to internships and junior roles in SysAdmin, IT infrastructure, and DevOps
-🎨 Design: Illustrator, Premiere Pro, Blender, Figma
-
-[root@user ~]# contact --help
-📧 Email: Available in resume
-💼 LinkedIn: See link below
-🐙 GitHub: You're already here! 😄
-📄 Resume/CV: Use 'resume --download' for links
-
-[root@user ~]# resume --download
 ```
 
-[homelab-glud](./homelab-glud.md) · [dotfiles](https://github.com/Deivis44/dotfiles) · [Chess](https://github.com/Deivis44/Chess) · [LinkedIn](https://www.linkedin.com/in/david-munoz44/)
+</details>
 
-```md
+```text
+deivis@daaveyos:~$ resume --download
+
      ┌───────────┐
      │    ︵  ‿  ︵   Deivis:
      │           │   <thinking> 
@@ -83,11 +90,11 @@
 
 [![Open Resume Folder](Boton.png)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
 
-```md
+```text
      ┌───────────┐
      │           │   Deivis: 
      │   ⚪  ‿  ⚪   <says> Feel free to reach out after reviewing my experience!
      └───────────┘
 
-[root@user ~]# █
+deivis@daaveyos:~$ █
 ```
