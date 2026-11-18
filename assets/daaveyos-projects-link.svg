@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="31" viewBox="0 0 97 31" role="img" aria-label="Projects">
+  <defs><linearGradient id="bevel" x2="0%" y2="100%"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#F1F4F9"/><stop offset="1" stop-color="#DCE6F7"/></linearGradient></defs>
+  <rect x="1" y="1" width="95" height="29" rx="6" fill="url(#bevel)" stroke="#2E5490" stroke-width="2"/>
+  <path d="M8 3H89" fill="none" stroke="#FFFFFF"/>
+  <text x="14" y="20" fill="#17345B" font-family="Tahoma, Verdana, sans-serif" font-size="13" font-weight="700">Projects</text>
+  <path d="M76 12h4l2 2h5v6H76Z" fill="none" stroke="#28588E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

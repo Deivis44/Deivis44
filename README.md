@@ -17,6 +17,10 @@ deivis@daaveyos:~$ whoami
 
 ![User profile · David Santiago Muñoz Fernández. Systems Engineering student at Universidad Distrital. Currently webmaster at Colombia's Ministry of Agriculture and Rural Development. Based in Bogotá and open to internships and junior roles in Linux systems administration, IT infrastructure, and DevOps.](./assets/daaveyos-profile.svg)
 
+[![LinkedIn](./assets/daaveyos-linkedin.svg)](https://www.linkedin.com/in/david-munoz44/)
+[![Projects](./assets/daaveyos-projects-link.svg)](#daaveyos-projects)
+[![CV](./assets/daaveyos-resume-link.svg)](#daaveyos-resume)
+
 ```text
 [session] Profile window closed. Back at the shell.
 
@@ -47,6 +51,8 @@ deivis@daaveyos:~$ ls ~/projects
 [file-manager] Opening Projects. Select a folder to continue.
 ```
 
+<a name="daaveyos-projects"></a>
+
 <table>
   <tbody>
     <tr>
@@ -58,11 +64,12 @@ deivis@daaveyos:~$ ls ~/projects
 </table>
 
 ```text
-deivis@daaveyos:~$ contact --help
-Open LinkedIn to get in touch.
+deivis@daaveyos:~$ ls ~/toolkit
 ```
 
-[![LinkedIn](./assets/daaveyos-linkedin.svg)](https://www.linkedin.com/in/david-munoz44/)
+![Technology medals — Linux, Bash, Docker, Git, Python, Tailscale, TYPO3 and Java](./assets/daaveyos-medals.svg)
+
+<a name="daaveyos-resume"></a>
 
 ```text
 deivis@daaveyos:~$ resume --select-language
