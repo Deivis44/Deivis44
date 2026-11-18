@@ -6,7 +6,7 @@ Estudio Ingeniería de Sistemas en la Universidad Distrital Francisco José de C
 
 ## Proyectos y experiencia
 
-- **Laboratorio Linux con Raspberry Pi 5 · GLUD.** Integré la Raspberry Pi como laboratorio remoto para el Subgrupo de Servidores. Ejecuto servicios en Docker, uso Tailscale para el acceso remoto e implementé un túnel hacia una VPS. Documento la configuración y los procedimientos para el grupo.
+- **[Laboratorio Linux con Raspberry Pi 5 · GLUD](./homelab-glud.md).** Integré la Raspberry Pi como laboratorio remoto para el Subgrupo de Servidores. Ejecuto servicios en Docker, uso Tailscale para el acceso remoto e implementé un túnel hacia una VPS. Documento la configuración y los procedimientos para el grupo.
 - **[Dotfiles para Arch Linux y Hyprland](https://github.com/Deivis44/dotfiles).** Mantengo configuraciones de herramientas como Kitty, Zsh y tmux, con scripts Bash para enlazar los archivos y un ejemplo de instalación selectiva con GNU Stow.
 - **Portal institucional del Ministerio.** Administro páginas en TYPO3, atiendo incidencias en GLPI y documento los cambios. En un proyecto de SEO técnico, relacioné 591 URL con sus registros en el CMS y apoyé la actualización y verificación de metadatos por lotes.
 
