@@ -1,6 +1,10 @@
 ```text
-==> DaaveyOS boot sequence initiated
-==> Session ready · deivis@daaveyos
+==> Booting DaaveyOS
+[  OK  ] Root filesystem mounted
+[  OK  ] User session started
+[  OK  ] Desktop and project directory ready
+
+DaaveyOS login: deivis
 
      ┌───────────┐
      │           │   Deivis: 
@@ -28,19 +32,19 @@ deivis@daaveyos:~$ cat ~/work/madr.log
 deivis@daaveyos:~$ fastfetch
 
       ___           ___            deivis@daaveyos
-     /__/\         /  /\
-    |  |::\       /  /::|          OS  Arch-based Linux
-    |  |:|:\     /  /:|:|          Host  DaaveyOS
-  __|__|:|\:\   /  /:/|:|__            Lab  Raspberry Pi 5
- /__/::::| \:\ /__/:/ |:| /\       Uptime  Learning since 2020
- \  \:\~~\__\/ \__\/  |:|/:/       Shell  zsh
-  \  \:\           |  |:/:/        DE  Hyprland (Wayland)
-   \  \:\          |  |::/         Ops  Docker / Bash
-    \  \:\         |  |:/             Net  Tailscale / VPS
-     \__\/         |__|/             Desk  dotfiles / GNU Stow
+     /__/\         /  /\           ---------------------------
+    |  |::\       /  /::|          Desktop  CachyOS / Hyprland
+    |  |:|:\     /  /:|:|          Shell    Zsh and Bash
+  __|__|:|\:\   /  /:/|:|__        Lab      Raspberry Pi 5 + Linux
+ /__/::::| \:\ /__/:/ |:| /\       Services Docker containers
+ \  \:\~~\__\/ \__\/  |:|/:/       Network  Tailscale + VPS tunnel
+  \  \:\           |  |:/:/        Config   Git + GNU Stow
+   \  \:\          |  |::/         Work     TYPO3 + GLPI
+    \  \:\         |  |:/          Focus    Linux infrastructure
+     \__\/         |__|/
 
 deivis@daaveyos:~$ ls ~/projects
-[file-manager] Opening the project directory…
+[file-manager] Opening Projects. Select a folder to continue.
 ```
 
 [![GLUD Homelab — Raspberry Pi 5 with Docker, Tailscale, and a VPS tunnel](./assets/glud-homelab.svg)](./homelab-glud.md)
@@ -53,29 +57,7 @@ deivis@daaveyos:~$ contact --help
 Open LinkedIn to get in touch, or browse the résumé archive.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-085A9E?style=flat-square)](https://www.linkedin.com/in/david-munoz44/)
-
-<details>
-<summary><code>journalctl -b</code> · Full boot log</summary>
-
-```text
-==> Booting DaaveyOS [profile]
-/dev/sda3: recovering journal
-/dev/sda3: clean, 238075/59965440 files, 6019093/239842481 blocks
-
-  --> Starting system initialization...
-
-[    0.01s] :: Loading kernel modules
-[    0.03s] :: Initializing hardware detection
-[    0.05s] :: Starting udev daemon
-[    0.07s] :: Mounting filesystems
-[    0.09s] :: Loading network interfaces
-[    0.12s] :: Starting system services
-
-==> Login successful. Welcome back, Deivis!
-```
-
-</details>
+[![LinkedIn](./assets/daaveyos-linkedin.svg)](https://www.linkedin.com/in/david-munoz44/)
 
 <details>
 <summary><code>resume --archive</code> · Archived résumés</summary>
