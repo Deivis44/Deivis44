@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="244" viewBox="0 0 640 244" role="img" aria-labelledby="title description">
+  <title id="title">DaaveyOS user profile</title>
+  <desc id="description">David Santiago Muñoz Fernández, Systems Engineering student at Universidad Distrital and webmaster at Colombia's Ministry of Agriculture and Rural Development. Open to internships and junior roles in infrastructure in Bogotá.</desc>
+  <defs>
+    <linearGradient id="titlebar" x2="0%" y2="100%">
+      <stop stop-color="#396BB3"/>
+      <stop offset="1" stop-color="#244577"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="638" height="242" rx="9" fill="#fff" stroke="#365783" stroke-width="2"/>
+  <path d="M10 2H630Q638 2 638 10V37H2V10Q2 2 10 2Z" fill="url(#titlebar)"/>
+  <g font-family="Tahoma, Verdana, sans-serif">
+    <text x="17" y="25" fill="#fff" font-size="15" font-weight="700">User Profile — DaaveyOS</text>
+    <rect x="601" y="9" width="25" height="20" rx="4" fill="#18375B" stroke="#ADC5E5"/>
+    <path d="m610 15 7 8m0-8-7 8" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="20" y="56" width="48" height="48" rx="7" fill="#EBF3FF" stroke="#C0D4ED"/>
+    <path d="m30 72 7 6-7 6m11 0h13" fill="none" stroke="#28548C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="81" y="77" fill="#142641" font-size="25" font-weight="700">David Santiago Muñoz Fernández</text>
+    <text x="81" y="101" fill="#334963" font-size="15">Systems Engineering student · Universidad Distrital</text>
+    <path d="M21 119H619" stroke="#DCE5EF"/>
+    <text x="22" y="144" fill="#315782" font-size="14" font-weight="700">CURRENT ROLE</text>
+    <text x="159" y="144" fill="#1D304A" font-size="15">Webmaster · Colombia’s Ministry of Agriculture</text>
+    <text x="22" y="171" fill="#315782" font-size="14" font-weight="700">FOCUS</text>
+    <text x="159" y="171" fill="#1D304A" font-size="15">Linux administration, IT infrastructure and DevOps</text>
+    <path d="M2 194H638V234Q638 242 630 242H10Q2 242 2 234Z" fill="#EFF4FA"/>
+    <path d="M2 194H638" stroke="#D4E0EF"/>
+    <circle cx="24" cy="218" r="4" fill="#2A754C"/>
+    <text x="36" y="223" fill="#25415E" font-size="14">Bogotá, Colombia · Open to internships and junior roles</text>
+  </g>
+</svg>
