@@ -17,9 +17,11 @@ deivis@daaveyos:~$ whoami
 
 ![User profile · David Santiago Muñoz Fernández. Systems Engineering student at Universidad Distrital. Currently webmaster at Colombia's Ministry of Agriculture and Rural Development. Based in Bogotá and open to internships and junior roles in Linux systems administration, IT infrastructure, and DevOps.](./assets/daaveyos-profile.svg)
 
-[![LinkedIn](./assets/daaveyos-linkedin.svg)](https://www.linkedin.com/in/david-munoz44/)
-[![Projects](./assets/daaveyos-projects-link.svg)](#user-content-daaveyos-projects)
-[![CV](./assets/daaveyos-resume-link.svg)](#user-content-daaveyos-resume)
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-munoz44/"><img src="./assets/daaveyos-linkedin.svg" alt="LinkedIn"></a>
+  <a href="#user-content-daaveyos-projects"><img src="./assets/daaveyos-projects-link.svg" alt="Projects"></a>
+  <a href="#user-content-daaveyos-resume"><img src="./assets/daaveyos-resume-link.svg" alt="CV"></a>
+</p>
 
 ```text
 [session] Profile window closed. Back at the shell.
@@ -67,7 +69,9 @@ deivis@daaveyos:~$ ls ~/projects
 deivis@daaveyos:~$ ls ~/toolkit
 ```
 
-![Technology medals — Linux, Bash, Docker, Git, Python, Tailscale, TYPO3 and Java](./assets/daaveyos-medals.svg)
+<p align="center">
+  <img src="./assets/daaveyos-medals.svg" width="468" height="64" alt="Technology medals — Linux, Bash, Docker, Git, Python, Tailscale, TYPO3 and Java">
+</p>
 
 <a name="daaveyos-resume"></a>
 
