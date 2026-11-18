@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="102" viewBox="0 0 400 102" role="img" aria-labelledby="title">
+  <title id="title">Résumé Viewer — choose Spanish or English</title>
+  <g shape-rendering="crispEdges">
+    <path d="M8 0H392V4H396V8H400V94H396V98H392V102H8V98H4V94H0V8H4V4H8Z" fill="#163B78"/>
+    <path d="M8 3H392V7H397V94H392V99H8V95H3V8H8Z" fill="#EEEBDD"/>
+    <path d="M8 3H392V7H397V28H3V8H8Z" fill="#2158AA"/>
+    <path d="M8 6H392V9H397V13H3V9H8Z" fill="#3C7ACA"/>
+    <path d="M3 26H397V29H3Z" fill="#173E82"/>
+    <path d="M16 39H384V91H16Z" fill="#F8F5E9" stroke="#D3CBB5"/>
+    <path d="M36 48h5v5h3v6h3v6h3v7h3v7H24v-7h3v-7h3v-6h3v-6h3Z" fill="#6B4A0B"/>
+    <path d="M37 51h3v5h3v6h3v7h3v7H28v-7h3v-7h3v-6h3Z" fill="#FFDA59"/>
+    <path d="M37 58h4v10h-4Zm0 13h4v3h-4Z" fill="#36280D"/>
+  </g>
+  <g font-family="Tahoma, Verdana, sans-serif">
+    <text x="15" y="21" fill="#fff" font-size="13" font-weight="700">DaaveyOS · Résumé Viewer</text>
+    <text x="64" y="61" fill="#242E3B" font-size="13" font-weight="700">Choose a language to open my résumé.</text>
+    <text x="64" y="78" fill="#424E5C" font-size="12">Each button opens a public PDF on Google Drive.</text>
+  </g>
+</svg>

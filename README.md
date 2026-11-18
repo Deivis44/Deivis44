@@ -47,19 +47,33 @@ deivis@daaveyos:~$ ls ~/projects
 [file-manager] Opening Projects. Select a folder to continue.
 ```
 
-[![GLUD Homelab — Raspberry Pi 5 with Docker, Tailscale, and a VPS tunnel](./assets/glud-homelab.svg)](./homelab-glud.md)
-[![Arch Linux Dotfiles — Hyprland, Bash, and GNU Stow](./assets/arch-dotfiles.svg)](https://github.com/Deivis44/dotfiles)
-[![Chess — university chess project in Java](./assets/chess.svg)](https://github.com/Deivis44/Chess)
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="./homelab-glud.md"><img src="./assets/glud-homelab.svg" alt="GLUD Homelab — Raspberry Pi 5 with Docker, Tailscale, and a VPS tunnel" width="212" height="106"></a></td>
+      <td align="center"><a href="https://github.com/Deivis44/dotfiles"><img src="./assets/arch-dotfiles.svg" alt="Arch Linux Dotfiles — Hyprland, Bash, and GNU Stow" width="212" height="106"></a></td>
+      <td align="center"><a href="https://github.com/Deivis44/Chess"><img src="./assets/chess.svg" alt="Chess — university chess project in Java" width="212" height="106"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ```text
 deivis@daaveyos:~$ contact --help
-Open LinkedIn to get in touch, or browse the résumé archive.
+Open LinkedIn to get in touch.
 ```
 
 [![LinkedIn](./assets/daaveyos-linkedin.svg)](https://www.linkedin.com/in/david-munoz44/)
-[![CV archive — public Google Drive folder](./assets/daaveyos-cv.svg)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
 
-CV archive · Public PDFs in Spanish and English · February 2025.
+```text
+deivis@daaveyos:~$ resume --select-language
+[resume] Waiting for a language selection…
+```
+<p align="center">
+  <img src="./assets/daaveyos-cv-dialog.svg" width="400" height="102" alt="Résumé viewer. Choose a language to open its public PDF on Google Drive.">
+  <br>
+  <a href="https://drive.google.com/file/d/1QdnVJ5_DsU1IcL51GRcbPfRWgP4Drwpd/view"><img src="./assets/daaveyos-cv-es.svg" width="132" height="32" alt="Open résumé in Spanish (PDF)"></a>
+  <a href="https://drive.google.com/file/d/14UhDydrfdGKyDjekTmb9QbbDNQS49qJc/view"><img src="./assets/daaveyos-cv-en.svg" width="132" height="32" alt="Open résumé in English (PDF)"></a>
+</p>
 
 ```text
      ┌───────────┐
