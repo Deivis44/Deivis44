@@ -49,8 +49,7 @@ deivis@daaveyos:~$ ls ~/projects
 
 [![GLUD Homelab — Raspberry Pi 5 with Docker, Tailscale, and a VPS tunnel](./assets/glud-homelab.svg)](./homelab-glud.md)
 [![Arch Linux Dotfiles — Hyprland, Bash, and GNU Stow](./assets/arch-dotfiles.svg)](https://github.com/Deivis44/dotfiles)
-
-[Chess](https://github.com/Deivis44/Chess) · University project in Java
+[![Chess — university chess project in Java](./assets/chess.svg)](https://github.com/Deivis44/Chess)
 
 ```text
 deivis@daaveyos:~$ contact --help
@@ -58,20 +57,9 @@ Open LinkedIn to get in touch, or browse the résumé archive.
 ```
 
 [![LinkedIn](./assets/daaveyos-linkedin.svg)](https://www.linkedin.com/in/david-munoz44/)
+[![CV archive — public Google Drive folder](./assets/daaveyos-cv.svg)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
 
-<details>
-<summary><code>resume --archive</code> · Archived résumés</summary>
-
-```text
-deivis@daaveyos:~$ resume --archive
-[session] Opening the résumé archive…
-```
-
-Archived PDFs from February 2025.
-
-[![Open CV Archive](Boton.png)](https://drive.google.com/drive/folders/1oYNx0hEfAhGNUxD47JWJN1M44ndzPiUd?usp=sharing)
-
-</details>
+CV archive · Public PDFs in Spanish and English · February 2025.
 
 ```text
      ┌───────────┐

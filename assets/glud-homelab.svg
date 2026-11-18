@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="322" height="118" viewBox="0 0 322 118" role="img" aria-label="GLUD Homelab">
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="118" viewBox="0 0 236 118" role="img" aria-label="GLUD Homelab">
   <title>GLUD Homelab</title>
   <defs><linearGradient id="gold" x2="0%" y2="100%"><stop stop-color="#FFF5C8"/><stop offset="1" stop-color="#F8CF67"/></linearGradient></defs>
-  <path d="M5 5H11V1H115V5H121V11H311V15H317V21H321V106H317V112H311V117H11V112H5V106H1V11H5Z" fill="#C88D27"/>
-  <path d="M7 8H14V5H112V9H117V15H309V19H315V24H317V104H313V110H308V113H14V109H8V103H5V14H7Z" fill="url(#gold)"/>
-  <path d="M9 30H313V103H309V109H14V105H9Z" fill="#FFF4CF" stroke="#DCAC46"/>
-  <path d="M14 35H307" stroke="#fff" opacity=".9"/>
+  <path d="M5 5H11V1H115V5H121V11H225V15H231V21H235V106H231V112H225V117H11V112H5V106H1V11H5Z" fill="#C88D27"/>
+  <path d="M7 8H14V5H112V9H117V15H223V19H229V24H231V104H227V110H222V113H14V109H8V103H5V14H7Z" fill="url(#gold)"/>
+  <path d="M9 30H227V103H223V109H14V105H9Z" fill="#FFF4CF" stroke="#DCAC46"/>
+  <path d="M14 35H221" stroke="#fff" opacity=".9"/>
   <path d="M25 46h14v5h18v22H25Z" fill="#D49A2C" shape-rendering="crispEdges"/>
   <path d="M28 49h9v5h17v15H28Z" fill="#FFE58C" shape-rendering="crispEdges"/>
   <path d="M28 56h26v3H28Z" fill="#FFF4C7" shape-rendering="crispEdges"/>
   <g font-family="Tahoma, Verdana, sans-serif">
     <text x="20" y="23" fill="#684817" font-size="11" font-weight="700">homelab-glud/</text>
-    <text x="69" y="56" fill="#292413" font-size="17" font-weight="700">GLUD Homelab</text>
-    <text x="69" y="76" fill="#514322" font-size="12">Remote lab on a Raspberry Pi 5</text>
-    <text x="69" y="94" fill="#59461F" font-size="11">Docker · Tailscale · VPS tunnel</text>
-    <path d="m294 57 8 5-8 5" fill="none" stroke="#805A17" stroke-width="1.7"/>
+    <text x="62" y="56" fill="#292413" font-size="15" font-weight="700">GLUD Homelab</text>
+    <text x="62" y="76" fill="#514322" font-size="12">Remote Raspberry Pi 5 lab</text>
+    <text x="62" y="94" fill="#59461F" font-size="11">Docker · Tailscale · VPS</text>
+    <path d="m213 20 6 3-6 3" fill="none" stroke="#805A17" stroke-width="1.7"/>
   </g>
 </svg>

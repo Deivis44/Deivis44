@@ -1,32 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="312" viewBox="0 0 800 244" role="img" aria-labelledby="title description">
   <title id="title">DaaveyOS user profile</title>
   <desc id="description">David Santiago Muñoz Fernández, Systems Engineering student at Universidad Distrital and webmaster at Colombia's Ministry of Agriculture and Rural Development. Open to internships and junior roles in infrastructure in Bogotá.</desc>
-  <defs>
-    <linearGradient id="titlebar" x2="0%" y2="100%">
-      <stop stop-color="#387DDD"/>
-      <stop offset="1" stop-color="#2058A2"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="798" height="242" rx="9" fill="#fff" stroke="#365783" stroke-width="2"/>
-  <path d="M10 2H790Q798 2 798 10V37H2V10Q2 2 10 2Z" fill="url(#titlebar)"/>
+  <path d="M8 0H792V4H796V8H800V236H796V240H792V244H8V240H4V236H0V8H4V4H8Z" fill="#18395F" shape-rendering="crispEdges"/>
+  <path d="M9 4H791V8H796V236H791V240H9V236H4V8H9Z" fill="#FDFEFF" shape-rendering="crispEdges"/>
+  <path d="M9 4H791V8H796V39H4V8H9Z" fill="#2356A0" shape-rendering="crispEdges"/>
+  <path d="M9 8H791V12H796V16H4V12H9Z" fill="#3877C8" shape-rendering="crispEdges"/>
+  <path d="M4 35H796V39H4Z" fill="#153766" shape-rendering="crispEdges"/>
   <g font-family="Tahoma, Verdana, sans-serif">
-    <text x="17" y="25" fill="#fff" font-size="15" font-weight="700">User Profile — DaaveyOS</text>
-    <rect x="761" y="9" width="25" height="20" rx="4" fill="#18375B" stroke="#ADC5E5"/>
-    <path d="m770 15 7 8m0-8-7 8" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
-    <rect x="20" y="56" width="48" height="48" rx="7" fill="#EBF3FF" stroke="#C0D4ED"/>
-    <path d="m30 72 7 6-7 6m11 0h13" fill="none" stroke="#28548C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="18" y="27" fill="#fff" font-size="15" font-weight="700" font-family="monospace">User Profile — DaaveyOS</text>
+    <path d="M763 12H784V31H763Z" fill="#18395F" stroke="#90B7EF" shape-rendering="crispEdges"/>
+    <path d="M768 16h2v2h2v2h2v-2h2v-2h2v2h-2v2h-2v2h2v2h2v2h-2v-2h-2v-2h-2v2h-2v2h-2v-2h2v-2h2v-2h-2v-2h-2Z" fill="#fff" shape-rendering="crispEdges"/>
+    <g shape-rendering="crispEdges" aria-hidden="true">
+      <path d="M24 54H64V58H68V102H64V106H24V102H20V58H24Z" fill="#ACC6E8"/>
+      <path d="M24 58H64V102H24Z" fill="#DDEBFC"/>
+      <path d="M32 66H56V70H60V90H56V94H32V90H28V70H32Z" fill="#223C67"/>
+      <path d="M36 62H52V66H36Z" fill="#548CDF"/>
+      <path d="M36 74H40V82H36ZM48 74H52V82H48Z" fill="#F5FBFF"/>
+      <path d="M40 86H48V90H40Z" fill="#8FE5B4"/>
+    </g>
     <text x="81" y="77" fill="#142641" font-size="25" font-weight="700">David Santiago Muñoz Fernández</text>
     <text x="81" y="101" fill="#334963" font-size="15">Systems Engineering student · Universidad Distrital</text>
-    <rect x="650" y="62" width="127" height="28" rx="6" fill="#EDF5FF" stroke="#B8CFEA"/>
-    <text x="713.5" y="80.5" text-anchor="middle" fill="#235080" font-size="12" font-weight="700">deivis@daaveyos</text>
+    <rect x="650" y="62" width="127" height="28" fill="#EDF5FF" stroke="#B8CFEA"/>
+    <text x="713.5" y="80.5" text-anchor="middle" fill="#235080" font-family="monospace" font-size="12" font-weight="700">deivis@daaveyos</text>
     <path d="M21 119H779" stroke="#DCE5EF"/>
     <text x="22" y="144" fill="#315782" font-size="14" font-weight="700">CURRENT ROLE</text>
     <text x="159" y="144" fill="#1D304A" font-size="15">Webmaster · Colombia’s Ministry of Agriculture and Rural Development</text>
     <text x="22" y="171" fill="#315782" font-size="14" font-weight="700">FOCUS</text>
     <text x="159" y="171" fill="#1D304A" font-size="15">Linux administration, IT infrastructure and DevOps</text>
-    <path d="M2 194H798V234Q798 242 790 242H10Q2 242 2 234Z" fill="#EFF4FA"/>
-    <path d="M2 194H798" stroke="#D4E0EF"/>
-    <circle cx="24" cy="218" r="4" fill="#2A754C"/>
+    <path d="M4 194H796V236H791V240H9V236H4Z" fill="#EFF4FA"/>
+    <path d="M4 194H796" stroke="#D4E0EF"/>
+    <rect x="20" y="214" width="8" height="8" fill="#2A754C" shape-rendering="crispEdges"/>
     <text x="36" y="223" fill="#25415E" font-size="14">Bogotá, Colombia · Open to internships and junior roles</text>
   </g>
 </svg>
